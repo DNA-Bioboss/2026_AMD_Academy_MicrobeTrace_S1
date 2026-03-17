@@ -13,3 +13,5 @@ Using both epidemiologic and genomic data, participants will:
   * Visualize transmission patterns using MicrobeTrace tools (e.g., shapes, colors, labels)
 
 This exercise emphasizes the integration of epidemiologic and genomic data with network visualization to support outbreak investigation.
+
+Download the files and begin the exercise by following the MicrobeTrace_Instructions_April2026
