@@ -1,7 +1,5 @@
-# 2026_AMD_Academy_MicrobeTrace_S1
-This repository contains a hands-on MicrobeTrace training exercise focused on investigating a simulated CRAB outbreak across multiple healthcare facilities using epidemiologic and genomic data.
-
 **MicrobeTrace Training Exercise: CRAB Outbreak Investigation**
+
 This repository contains materials for a hands-on training designed to introduce participants to using MicrobeTrace for outbreak investigations. In this exercise, participants will explore a simulated outbreak of Carbapenem-Resistant Acinetobacter baumannii (CRAB) across multiple healthcare facilities.
 
 Using both epidemiologic and genomic data, participants will:
